@@ -5,7 +5,7 @@
   "main": "server.js",
   "dependencies": {
     "express": "^4.17.1",
-    "phaser": "^3.23.0",
+    "phaser": "^3.55.2",
     "socket.io": "^2.3.0"
   },
   "devDependencies": {},
